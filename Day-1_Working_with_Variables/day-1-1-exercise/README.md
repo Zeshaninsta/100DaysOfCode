@@ -18,6 +18,6 @@ The function is declared like this:
 print('what to print')
 ```
 e.g. When you hit run, this is what should happen:
-
+```bash
 1.1. print.webp
-
+```
