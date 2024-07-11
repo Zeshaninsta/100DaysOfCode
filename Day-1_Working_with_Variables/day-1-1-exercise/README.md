@@ -22,7 +22,7 @@ print('what to print')
 
 e.g. When you hit run, this is what should happen:
 
-![Example Output](1.1.print.webp)
+![Example Output](1.1. print.webp)
 
 ### Notes
 
