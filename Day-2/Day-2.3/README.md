@@ -5,7 +5,7 @@ It Will Take Your Current age as the input and output the message with out time 
 
 ```bash
 **Your have X days, Y weeks, and Z months left**
-'''
+```
 where x,y and z are replaced by with the actual calculated numbers
 
 # Example
