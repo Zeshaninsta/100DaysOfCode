@@ -22,9 +22,10 @@ print('what to print')
 
 e.g. When you hit run, this is what should happen:
 
-1.1.print.webp
-Notes
+![Example Output](1.1.print.webp)
 
-#### Ensure that your output matches the example exactly.
-#### Double-check for any extra spaces or missing characters.
-##### Run your program to verify the output before submitting.
+### Notes
+
+- Ensure that your output matches the example exactly.
+- Double-check for any extra spaces or missing characters.
+- Run your program to verify the output before submitting.
