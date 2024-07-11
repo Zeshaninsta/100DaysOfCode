@@ -21,9 +21,9 @@ print('what to print')
 ```
 
 e.g. When you hit run, this is what should happen:
-
-(1.1.print.webp)
-
+```gif
+1.1.print.webp
+```
 Notes
 
     Ensure that your output matches the example exactly.
