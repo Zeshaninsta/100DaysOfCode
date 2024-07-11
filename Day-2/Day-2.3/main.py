@@ -4,9 +4,9 @@ def logic_yourLife(age):
     Days = 365
     Weeks = 52
     Months = 12
-    left_Days = 90 * Days - age * Days
-    left_Weeks = 90 * Weeks - age * Weeks
-    left_Months = 90 * Months - age * Months
+    left_Days = Target * Days - age * Days
+    left_Weeks = Target * Weeks - age * Weeks
+    left_Months = Target * Months - age * Months
     print (f"You Have {left_Days} days, {left_Weeks} Weeks, {left_Months} Months left.")
 
 def main():
