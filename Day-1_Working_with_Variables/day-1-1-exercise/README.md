@@ -21,11 +21,11 @@ print('what to print')
 ```
 
 e.g. When you hit run, this is what should happen:
-```gif
+```webp
 1.1.print.webp
 ```
 Notes
 
-    Ensure that your output matches the example exactly.
-    Double-check for any extra spaces or missing characters.
-    Run your program to verify the output before submitting.
+## Ensure that your output matches the example exactly.
+## Double-check for any extra spaces or missing characters.
+## Run your program to verify the output before submitting.
