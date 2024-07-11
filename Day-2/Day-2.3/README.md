@@ -4,7 +4,7 @@ This program used maths and f-strings that tells us how many days, weeks, months
 It Will Take Your Current age as the input and output the message with out time left in this format 
 
 ```txt
-*Your have X days, Y weeks, and Z months left*
+Your have X days, Y weeks, and Z months left
 ```
 where x,y and z are replaced by with the actual calculated numbers
 
