@@ -13,7 +13,7 @@ e.g. The year 2000
 2000 / 100 = 20 (not leap)
 2000 / 400 = 5 (leap)
 
-##### Therefore 2000 is a leap year
+Therefore 2000 is a leap year
 ```
 But the year 2100 is not a leap year because:
 ```bash
@@ -21,7 +21,7 @@ But the year 2100 is not a leap year because:
 2100 / 100 = 21 (not leap)
 2100 / 400 = 52.5 (not leap)
 
-##### Therefore 2100 is not a leap year
+Therefore 2100 is not a leap year
 ```
 
 # Example of the output code
