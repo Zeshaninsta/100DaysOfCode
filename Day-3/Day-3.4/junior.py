@@ -1,16 +1,5 @@
 # Day-3.4 Pizza Order
 # Menu for Pizzas
-def menu():
-    small_pizza = 15
-    medium_pizza = 20
-    large_pizza = 25
-    pepperoni_small = 2
-    pepperoni_medium = 3
-    pepperoni_large = 3
-    cheese_cost = 1
-    return small_pizza, medium_pizza, large_pizza, pepperoni_small, pepperoni_medium, pepperoni_large, cheese_cost
-
-
 
 def logic_for_pizza_order(size, pepperoni, cheese,small_pizza, medium_pizza, large_pizza, pepperoni_small, pepperoni_medium, pepperoni_large, cheese_cost):
     # for small size pizza
@@ -44,7 +33,6 @@ def logic_for_pizza_order(size, pepperoni, cheese,small_pizza, medium_pizza, lar
 
 def main():
     print("Welcome to python pizza delivery")
-    menu()
     size = input("What Size Pizza Do You want? S,M,L: ").lower()
     pepperoni = input("Do You Want Pepperoni? Y or N: ").lower()
     cheese = input("Do You Want Extra Cheese? Y or N: ").lower()
