@@ -2,10 +2,12 @@
 write the program that tests the compatability between two people.
 to work out the love score between two people:
 ```bash
-Take both people's names and check for the number of times the letters in the word TRUE occurs, then check for the number of times the letter in the word LOVE occurs, the combine these number to make a 2 digit number
+Take both people's names and check for the number of times the letters in the word 
+TRUE occurs, then check for the number of times the letter in the word LOVE occurs, 
+the combine these number to make a 2 digit number
 ```
 For Love Scores less than 10 or greater than 90, the message should be:
-
+```bash
 "Your score is **x**, you go together like coke and mentos."
 
 For Love Scores between 40 and 50, the message should be:
@@ -15,7 +17,8 @@ For Love Scores between 40 and 50, the message should be:
 Otherwise, the message will just be their score. e.g.:
 
 "Your score is **z**."
-
+```
+```bash
 e.g.
 
 name1 = "Angela Yu"
@@ -45,8 +48,7 @@ Total = 3
 Love Score = 53
 
 Print: "Your score is 53."
-
-
+```
 
 # Example of output 
 ![output](main.png)
