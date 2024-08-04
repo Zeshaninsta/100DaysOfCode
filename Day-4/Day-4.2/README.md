@@ -12,4 +12,4 @@ Ben is going to pay the bill
 ```
 
 Output of the program:
-![Output] (main.png)
+![Output](main.png)
