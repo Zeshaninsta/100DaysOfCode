@@ -9,7 +9,7 @@ This is a simple game using python as a final project from 100 days of coding, t
 ```
 ## Example 
 ```bash
-if the user choose Rock and computer chooses Scissor, then user is the winner \n . see the above table for more understanding
+if the user choose Rock and computer chooses Scissor, then user is the winner. see the above table for more understanding
 ```
 
 ## Example output 
